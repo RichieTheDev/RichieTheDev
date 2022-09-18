@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RichieTheDev a FrontEnd Developer with a passion for making Beautiful functional Web Sites
+- 👋 Hi, I’m @RichieTheDev. I'm a FrontEnd Developer with a passion for making Beautiful functional Web Sites
 - 🙋‍♂️ I currently work with TAILWINDCSS,REACT JS,React-Reveal,AOS,Javascript 
 - 👀 I’m interested in bringing an amazing Internet experience to the Community 
 - 🌱 I’m currently learning React Js and how to make my sites even more appealing with animation Libraries
