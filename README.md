@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RichieTheDev</h1>
 <h3 align="center">I'm a FrontEnd Developer with a passion for making Beautiful functional Web Sites</h3>
 
-## 🙋 About Me
+## 🙋 About Me.
 
 
 - 🙋‍♂️ I currently work with **TAILWINDCSS,REACT JS,React-Reveal,AOS,ScrollSnap,REACT-TYPED,Javascript** 
