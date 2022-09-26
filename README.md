@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RichieTheDev</h1>
+<h1 align="center">Hi 👋, I'm Richie</h1>
 <h3 align="center">I'm a FrontEnd Developer with a passion for making Beautiful functional Web Sites</h3>
 
 ## 🙋 About Me.
