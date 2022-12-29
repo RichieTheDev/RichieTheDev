@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Richie</h1>
-<h3 align="center">I'm a FrontEnd Developer with a passion for making Beautiful functional Web Sites</h3>
+<h3 align="center">I'm a FrontEnd Developer with a passion for turning ideas into real life products</h3>
 
 ## 🙋 About Me.
 
 
 - 🙋‍♂️ I currently work with **TAILWINDCSS,REACT JS,Javascript and Animation Libraries** 
-- 🌱 I’m currently learning **React Js** **REDUX** and how to make my sites even more appealing with animation Libraries
 - 💞️ I’m currently available for **Freelance work** or to **collaborate in Junior roles as a Developer** 
 - 📫 You can Reach me via email on **richiemomodu@gmail.com** or Twitter **@_richierankin**
 - 👀 I have alot of Hobbies but my favorite is cooking up codes for a beautiful Web Experience
