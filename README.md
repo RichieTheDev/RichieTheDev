@@ -5,7 +5,7 @@
 
 
 - 🙋‍♂️ I currently work with **TAILWINDCSS,REACT JS,Javascript and Animation Libraries** 
-- 💞️ I’m currently available for **Freelance work** or to **collaborate in Junior roles as a Developer** 
+- 💞️ I’m currently available for **Freelance work** or to **collaborate in roles as a Developer** 
 - 📫 You can Reach me via email on **richiemomodu@gmail.com** or Twitter **@_richierankin**
 - 👀 I have alot of Hobbies but my favorite is cooking up codes for a beautiful Web Experience
 
