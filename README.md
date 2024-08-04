@@ -6,7 +6,7 @@
 
 - 🙋‍♂️ I currently work with **DevOps related tools** 
 - 💞️ I’m currently available for **FULL-TIME, Part-time Roles** aswell as **contract role** 
-- 📫 You can Reach me via email on **richiemomodu@gmail.com** or Twitter **@_richierankin**
+- 📫 You can Reach me via email on **richiemomodu@gmail.com**
 
     
     
